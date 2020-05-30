@@ -2,6 +2,9 @@
   "notebooks": {
     "freecodecamp_01-pytorch-basics.ipynb": {
       "slug": "c36e0344e2114068ac6cc172a6098bb6"
+    },
+    "freecodecamp_02-linear-regression.ipynb": {
+      "slug": "72de20dc19534dc48aa2be5699596bbc"
     }
   }
 }
